@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "Grafové zobrazení sledovacích tendencí českých poslanců na Instagramu vytvořeno pomocí programu Gephi, algoritmus Force Atlas 2 log-log. Graf tedy zobrazuje to, koho poslanci sledují. Velikost uzlů odpovídá počtu sledujících ze strany poslanců. Barvy odpovídají politické příslušnosti a u uzlů s 20 a více sledujících poslanců také určitým kategoriím ve společnosti; zbylé uzly jsou neotagovány. Webová aplikace utvořena skrze plugin Sigma.js, původní kód od OIN a JISC mírně upraven pro účely lepší vizualizace.<br><br> Source code, metodologie, diskuze a další vizualizace jsou v repozitáři na Githubu na <a href https://github.com/WLomnicky/poslanecky_instagram>tomto odkazu </a>",
+    "intro": "Grafové zobrazení sledovacích tendencí českých poslanců na Instagramu. Klikni na jednotlivé uzly pro bližší informace.",
+    "title": "Koho sledují naši poslanci?"
+  },
+  "legend": {
+    "edgeLabel": "Sledování",
+    "colorLabel": "Strany a skupiny účtů",
+    "nodeLabel": "Účty"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "klub",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 8,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 15
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.6,
+      "minEdgeSize": 0.6,
+      "minNodeSize": 0.1,
+      "maxNodeSize": 12
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

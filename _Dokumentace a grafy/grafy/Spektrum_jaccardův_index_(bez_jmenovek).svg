@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="8574.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-3159.000000 -3572.000000 8574.000000 6123.000000" height="6123.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#12e700" r="46.0" cx="-1749.8994"
+                class="id_gabriela_svarovska_zeleni" cy="1085.0876"
+                stroke="#097300" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#12e700" r="46.0" cx="-1533.2736"
+                class="id_irenakonec" cy="914.0649" stroke="#097300"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#ff3545" r="46.0" cx="2056.1484"
+                class="id_zuzana_majerova_trikolora" cy="-622.56964"
+                stroke="#7f1a22" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00705e" r="46.0" cx="2383.3806"
+                class="id_vondraczech.cz" cy="-2229.834" stroke="#00382f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#ff82f5" r="46.0" cx="-2926.4207"
+                class="id_honza_svitak" cy="-346.5073" stroke="#7f417a"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#ff82f5" r="46.0" cx="-2150.4468"
+                class="id_janberki.liberec" cy="347.74472" stroke="#7f417a"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00b5a4" r="46.0" cx="1837.1594"
+                class="id_jindrichrajchl" cy="-3522.3076" stroke="#005a52"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="388.96347"
+                class="id_adam_vojtech" cy="414.51077" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="839.78204"
+                class="id_filipturekpresident" cy="-733.5978" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="316.19327"
+                class="id_gabrielaindetail" cy="-99.40924" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-540.5742"
+                class="id_jan_lipavsky" cy="-39.466885" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#a26300" r="46.0" cx="2910.658"
+                class="id_miroslav.sevcik.vlastenci" cy="-1042.0013"
+                stroke="#513100" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="2620.944"
+                class="id_miroslav_krejci_" cy="-750.03595" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="722.51874"
+                class="id_oto.klempir" cy="-1139.8994" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="2389.1538"
+                class="id_renata_vesecka" cy="-408.5252" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="-0.30342484"
+                class="id_robert_plaga_msmt" cy="509.39752" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="1287.9183"
+                class="id_taktrochujinypolitik" cy="-603.25146" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="4075.8008"
+                class="id_jdemjanova" cy="796.16693" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-1148.4705"
+                class="id__kareldvorak" cy="160.17598" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2126.7732"
+                class="id__marek_novak" cy="302.0349" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="3282.9856"
+                class="id__petrvrana_official_" cy="1183.852" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-2344.489"
+                class="id_adrichochelova" cy="471.0161" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="3952.129"
+                class="id_aigermann" cy="641.12006" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="4251.1714"
+                class="id_airrescuedoctor" cy="575.45764" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-1248.2542"
+                class="id_andrejavonhoff" cy="1879.2003" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-1986.4194"
+                class="id_anezka_nedomova" cy="92.6187" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="796.3604"
+                class="id_babitchev" cy="231.77003" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-1253.1948"
+                class="id_barbarelaurbanova" cy="427.48917" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-868.2347"
+                class="id_barbora_pipasova" cy="1278.1339" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="664.57605"
+                class="id_barbora_razga" cy="71.09082" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-1824.8638"
+                class="id_bartosek_jan" cy="-953.6455" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-905.5697"
+                class="id_bartosovalucie_" cy="-622.6393" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-91.18946"
+                class="id_bendlpetr" cy="-1205.2731" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-1994.0457"
+                class="id_benjamin.cincila" cy="-2218.8628" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1275.7023"
+                class="id_berkovcovaj" cy="1261.7466" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2807.3516"
+                class="id_blazejdrahomir" cy="363.01462" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-2159.434"
+                class="id_bob.niemiec" cy="-1094.2749" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="2410.6213"
+                class="id_boris_stastny" cy="-217.94711" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-282.4848"
+                class="id_cernochova_jana" cy="85.30511" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2267.761"
+                class="id_david_stolpa" cy="1278.9733" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="3999.3237"
+                class="id_denisdoksansky" cy="1322.0511" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2318.36"
+                class="id_drahoslavryba" cy="407.78967" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2048.9275"
+                class="id_drazilovalenka" cy="989.9709" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-2648.4058"
+                class="id_eliska_olsak" cy="29.084555" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-1947.7173"
+                class="id_ester.weimerova" cy="-85.74666" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-634.88904"
+                class="id_evadecroix" cy="-347.70493" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2447.611"
+                class="id_evafialova_psp" cy="566.5032" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-1520.9098"
+                class="id_filipovicova.jana" cy="-1387.8386" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-1815.2611"
+                class="id_flek.josef" cy="222.89476" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-2397.254"
+                class="id_frantisek.talir" cy="-943.1092" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1618.4889"
+                class="id_frantisek_bures95" cy="1218.2571" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-610.1958"
+                class="id_haaskarel" cy="-626.95984" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-1989.8047"
+                class="id_hana.ancincova" cy="1235.9539" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#8e009f" r="46.0" cx="-866.17737"
+                class="id_havelztopky" cy="-86.792274" stroke="#47004f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-2154.6848"
+                class="id_hayato.josef.okamura" cy="-439.76315" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2645.774"
+                class="id_hejtman_kamal_farhan" cy="111.35196" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#8e009f" r="46.0" cx="-1114.6763"
+                class="id_helena.langsadlova" cy="-445.29843" stroke="#47004f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2200.9888"
+                class="id_hendrychigor" cy="575.6322" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#8e009f" r="46.0" cx="-1428.8434"
+                class="id_honza_jakob" cy="-604.6663" stroke="#47004f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-1509.8914"
+                class="id_horak.jmk" cy="-1152.2397" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="1524.1461"
+                class="id_igor.cerveny" cy="-787.424" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#a26300" r="46.0" cx="2884.9363"
+                class="id_iren.nemcova" cy="-559.78046" stroke="#513100"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-2843.3284"
+                class="id_jakub_krainer_stan" cy="149.05235" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-899.8945"
+                class="id_jan.bures" cy="-1449.55" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#a26300" r="46.0" cx="3576.3809"
+                class="id_jan.hrncir_spd" cy="-560.4515" stroke="#513100"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#a26300" r="46.0" cx="3447.6836"
+                class="id_jan.sila1" cy="-844.39526" stroke="#513100"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2443.8616"
+                class="id_jan_richter_ano" cy="869.62476" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-163.02856"
+                class="id_jan_skopecek" cy="-669.99713" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2320.203"
+                class="id_jana_murova_ano" cy="192.07303" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-2432.5215"
+                class="id_janakrutakova" cy="152.82408" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1792.6489"
+                class="id_janapastuchova1" cy="690.7155" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-1216.1161"
+                class="id_janapiratka" cy="725.43744" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-976.09845"
+                class="id_jandys.j" cy="-2359.4375" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#a26300" r="46.0" cx="2830.2957"
+                class="id_foldynajaroslav" cy="31.042255" stroke="#513100"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="3196.6106"
+                class="id_jiri.bartak.94" cy="-1179.1602" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#8e009f" r="46.0" cx="-977.14294"
+                class="id_jiri_pospisil_top09" cy="-285.58743" stroke="#47004f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2059.7441"
+                class="id_jirina.klcova.pce" cy="1472.6387" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1485.454"
+                class="id_jirkakotlik" cy="-80.86275" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2200.7532"
+                class="id_jitkavolfova9" cy="2501.3784" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-1829.206"
+                class="id_jpapajanovsky" cy="696.6103" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2193.1416"
+                class="id_juchelkaalesano" cy="6.401306" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-1660.4172"
+                class="id_julie_smejkalova" cy="487.10175" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1363.0582"
+                class="id_karelhavlicek_" cy="344.823" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-1129.0631"
+                class="id_katerina.sto" cy="1448.85" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-740.20355"
+                class="id_katia.demetrashvili" cy="614.64703" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="933.5213"
+                class="id_kolovratnikm" cy="857.83044" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-1379.7969"
+                class="id_kovarovazelezna" cy="120.88356" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2043.9287"
+                class="id_ladislavoklestek" cy="557.89874" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-756.6095"
+                class="id_libor.turek" cy="-1175.6627" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-447.58987"
+                class="id_libor_hoppe" cy="-1593.2438" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="2510.977"
+                class="id_liborforman_cz" cy="-767.2534" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1901.5287"
+                class="id_lubometnar" cy="312.35782" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2261.5164"
+                class="id_lubomir_wenzl" cy="913.0368" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#a26300" r="46.0" cx="2218.1162"
+                class="id_lucie_safrankova_" cy="-1596.1924" stroke="#513100"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-2185.1545"
+                class="id_luciesedmihradska" cy="133.97037" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2469.0286"
+                class="id_madlova_ivana" cy="1050.4032" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-1643.6353"
+                class="id_marek.vyborny" cy="-1532.308" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#8e009f" r="46.0" cx="-1312.642"
+                class="id_marek.zenisek" cy="-299.64618" stroke="#47004f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-1234.6238"
+                class="id_marianjurecka" cy="-1510.3898" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-1869.9672"
+                class="id_mariekrskovaposlankyne" cy="-1599.1589"
+                stroke="#7f7c0e" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-659.3059"
+                class="id_martin_kupka" cy="-1407.85" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-1098.898"
+                class="id_martinbaxaods" cy="-736.2446" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1746.6818"
+                class="id_martinkupec9" cy="-208.25024" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#a26300" r="46.0" cx="4947.468"
+                class="id_maruskaposarova" cy="-1100.3402" stroke="#513100"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-2323.1287"
+                class="id_matej_z_tetina" cy="743.2441" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="767.19586"
+                class="id_matesgregor" cy="2118.4124" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#8e009f" r="46.0" cx="-1552.296"
+                class="id_mich.kucera" cy="-373.7735" stroke="#47004f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-2206.9941"
+                class="id_michaela.moricova" cy="1444.7404" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-2629.9788"
+                class="id_michaela_opltova" cy="413.98367" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-1575.8645"
+                class="id_michaela_sebelova" cy="75.563286" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#8e009f" r="46.0" cx="-2606.6394"
+                class="id_michalzuna" cy="-1267.951" stroke="#47004f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="3028.646"
+                class="id_miljanulik" cy="834.658" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1878.8346"
+                class="id_miroslavsamas" cy="1126.8624" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="3254.221"
+                class="id_monika.hubikova" cy="396.0737" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1660.9049"
+                class="id_monika_oborna" cy="910.51544" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-1757.293"
+                class="id_monika_poslanecka" cy="-1263.6143" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-1549.4443"
+                class="id_mudr_tom_philipp" cy="-900.20935" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1516.3485"
+                class="id_mudr_vera_adamkova" cy="674.47876" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="907.06805"
+                class="id_nacherpatrik" cy="-325.5422" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-1366.5985"
+                class="id_olga_piratka_richterova" cy="1305.7742"
+                stroke="#10000e" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1685.9908"
+                class="id_p_ruzicka_" cy="166.86383" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1240.1764"
+                class="id_patrikparil" cy="939.6822" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1989.559"
+                class="id_pavel_outrata_" cy="782.2775" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-2622.6187"
+                class="id_karpisek.pavel" cy="-2447.4106" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1227.7189"
+                class="id_pavlisko" cy="-2508.429" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-1058.1449"
+                class="id_petr.fiala1964" cy="-1325.4723" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-1795.6802"
+                class="id_petr.hladik.brno" cy="-580.4428" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="1223.6744"
+                class="id_petr.macinka" cy="-1781.1833" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-797.18195"
+                class="id_petr.sokol1974" cy="-1791.8453" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1203.5643"
+                class="id_petrkowanda" cy="567.0777" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-1668.3328"
+                class="id_pirat_martin_smida" cy="1368.6686" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-1199.0471"
+                class="id_pirativanbartos" cy="1043.0686" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-1581.3545"
+                class="id_piratka.eva.sramkova" cy="1654.3215" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-1028.2756"
+                class="id_piratka_lenka" cy="947.8934" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-3109.4172"
+                class="id_pivonka.vankova_stan" cy="595.7011" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="46.0" cx="2840.3684"
+                class="id_prazakzesemil" cy="556.2831" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#a26300" r="46.0" cx="1918.2249"
+                class="id_prazsky_espedak" cy="-1143.5028" stroke="#513100"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#a26300" r="46.0" cx="3875.265"
+                class="id_radimfiala.cz" cy="-1845.1841" stroke="#513100"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-391.49078"
+                class="id_renata_zajickova" cy="-926.946" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1721.7886"
+                class="id_robertkralicek_politik" cy="398.25433"
+                stroke="#020045" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1157.749"
+                class="id_sadovsky_petr" cy="79.117546" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-994.2773"
+                class="id_samuel_volpe" cy="529.21277" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-901.37054"
+                class="id_starostka_vacenovice" cy="-927.7565" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-697.55493"
+                class="id_stepan.slovak" cy="-847.59595" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2747.8787"
+                class="id_strzinekpolitik" cy="769.8258" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2603.335"
+                class="id_svobo.daj" cy="322.9278" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="535.5047"
+                class="id_tatana_mala" cy="1207.5001" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-1958.1392"
+                class="id_telekyrobert" cy="-1246.127" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2287.1897"
+                class="id_tomashelebrant" cy="720.1338" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#a26300" r="46.0" cx="5365.052"
+                class="id_tomio.cz" cy="-3185.9956" stroke="#513100"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2722.6736"
+                class="id_vaclav_trojan_jmk" cy="1337.5781" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-717.3736"
+                class="id_vaclavplatenik" cy="1872.2583" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2664.102"
+                class="id_valkova_helena" cy="583.1117" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-1858.7548"
+                class="id_vendsvobodova" cy="1486.7983" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-2156.283"
+                class="id_veronika.kovarova.piratka" cy="2032.8153"
+                stroke="#10000e" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-1193.2292"
+                class="id_vitezslav_schrek" cy="-1016.283" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-2706.801"
+                class="id_vitrakusan" cy="918.0973" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#00e9fc" r="46.0" cx="1332.3494"
+                class="id_vladimir_pikora" cy="-1211.5082" stroke="#00747d"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="3868.5952"
+                class="id_vlastimil_hebr" cy="954.7184" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#8e009f" r="46.0" cx="-2051.6335"
+                class="id_vlastimilvalek" cy="-779.97546" stroke="#47004f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-2403.457"
+                class="id_vlcek.starostove" cy="-121.63773" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#fff81d" r="46.0" cx="-2256.3513"
+                class="id_vojacek.jura" cy="-1473.4932" stroke="#7f7c0e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-123.04105"
+                class="id_vojtechmunzar" cy="-1481.8357" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1914.2029"
+                class="id_vondraaczech" cy="118.47899" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-1141.0181"
+                class="id_zacek__pavel" cy="-1881.9011" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="4275.323"
+                class="id_zahormartin" cy="1081.3937" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#e100e4" r="46.0" cx="-2033.3483"
+                class="id_zdenca.kasparova" cy="591.78723" stroke="#700072"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#20001d" r="46.0" cx="-915.1865"
+                class="id_zdenek.hrib" cy="757.5842" stroke="#10000e"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-1124.9132"
+                class="id_zdenka.crkvenjas" cy="-2785.1108" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#8e009f" r="46.0" cx="-2869.4265"
+                class="id_zdenkablistanova_starostka" cy="-994.50555"
+                stroke="#47004f" stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="1367.7856"
+                class="id_zmrazova_mmr" cy="1873.9017" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="2510.3955"
+                class="id_zuzana_ozanova01" cy="665.8791" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#205fff" r="46.0" cx="-484.7655"
+                class="id_jirka_havranek" cy="-1110.8485" stroke="#102f7f"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+        <circle fill-opacity="1.0" fill="#04008a" r="46.0" cx="631.57025"
+                class="id_alenaschillerova" cy="647.66144" stroke="#020045"
+                stroke-opacity="1.0" stroke-width="8.0"/>
+    </g>
+</svg>
