@@ -8,7 +8,7 @@
     "text": ""
   },
   "text": {
-    "more": "Grafové zobrazení sledovacích tendencí českých poslanců na Instagramu vytvořeno pomocí programu Gephi, algoritmus Force Atlas 2 log-log. Graf tedy zobrazuje to, koho poslanci sledují. Velikost uzlů odpovídá počtu sledujících ze strany poslanců. Barvy odpovídají politické příslušnosti a u uzlů s 20 a více sledujících poslanců také určitým kategoriím ve společnosti; zbylé uzly jsou neotagovány. Webová aplikace utvořena skrze plugin Sigma.js, původní kód od OIN a JISC mírně upraven pro účely lepší vizualizace.<br><br> Source code, metodologie, diskuze a další vizualizace jsou v repozitáři na Githubu na <a href https://github.com/WLomnicky/poslanecky_instagram>tomto odkazu </a>",
+    "more": "Grafové zobrazení sledovacích tendencí českých poslanců na Instagramu vytvořeno pomocí programu Gephi, algoritmus Force Atlas 2 log-log. Graf tedy zobrazuje to, koho poslanci sledují. Velikost uzlů odpovídá počtu sledujících ze strany poslanců. Barvy odpovídají politické příslušnosti a u uzlů s 20 a více sledujících poslanců také určitým kategoriím ve společnosti; zbylé uzly jsou neotagovány. Webová aplikace utvořena skrze plugin Sigma.js, původní kód od OIN a JISC mírně upraven pro účely lepší vizualizace.<br><br> Source code, metodologie, diskuze a další vizualizace jsou v repozitáři na Githubu na <a href=https://github.com/WLomnicky/poslanecky_instagram>tomto odkazu</a>",
     "intro": "Grafové zobrazení sledovacích tendencí českých poslanců na Instagramu. Klikni na jednotlivé uzly pro bližší informace.",
     "title": "Koho sledují naši poslanci?"
   },
